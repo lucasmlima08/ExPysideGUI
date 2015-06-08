@@ -1,3 +1,9 @@
+"""
+*
+* PYSIDE :: PySide is licensed under the LGPL version 2.1 license (https://github.com/PySide/PySide).
+* 
+"""
+
 from PySide.QtGui import QApplication
 from PySide.QtGui import QMainWindow
 from PySide.QtGui import QPushButton
